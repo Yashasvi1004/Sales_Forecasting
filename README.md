@@ -6,6 +6,7 @@ Time series sales forecasting comparing four modeling approaches — **SARIMA**,
 
 ![Dashboard overview](screenshots/dashboard_overview.png)
 ![Feature importance](screenshots/feature_importance.png)
+![What-if forecast](screenshots/whatif_forecast.png)
 
 ---
 
